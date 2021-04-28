@@ -18,7 +18,7 @@ Uvicorn
     cd Voucher-API
 3) Run below command to run the docker containers\
     docker-compose up
-4) Once containers are up and running, open another terminal add run below command\
+4) Once containers are up and running, open another terminal and run below command\
     docker exec -it app /bin/bash
 5) Once connected to app conatiner, run below command\
     python /Voucher-API/main.py
